@@ -1,4 +1,4 @@
-# Project Title
+# Personal To-Do List Manager
 
 A short description of  what this project does and who it's for.
 
